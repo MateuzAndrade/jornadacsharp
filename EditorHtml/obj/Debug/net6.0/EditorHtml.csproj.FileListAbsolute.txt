@@ -1,0 +1,15 @@
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\bin\Debug\net6.0\EditorHtml.deps.json
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\bin\Debug\net6.0\EditorHtml.runtimeconfig.json
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\bin\Debug\net6.0\EditorHtml.pdb
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.AssemblyReference.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll
