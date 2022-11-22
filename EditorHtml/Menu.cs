@@ -10,31 +10,50 @@ namespace EditorHtml
         public static void Show()
         {
             Console.Clear();
-            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
-            DrawScreen();
+            DrawScreen(30,10);
+            WriteOptions();
 
         }
 
-        public static void DrawScreen(){
+        public static void DrawScreen(int colum , int lines) {
+
             Console.Write("+");
-            for (int i = 0; i <= 30; i++)
+            for (int i = 1; i <= colum; i++)
             {
                 Console.Write("-");
             }
             Console.Write("+");
             Console.Write("\n");
-            for (int lines = 0; lines <= 10; lines++)
+            for (int i = 1; i <= lines; i++)
             {
                 Console.Write("|");
-                for (int i = 0; i <=30 ; i++)
+                for (int x = 1; x <= colum; x++)
                 {
                     Console.Write(" ");
                 }
                 Console.Write("|");
                 Console.Write("\n");
-                
             }
+            Console.Write("+");
+            for (int i = 1; i <= colum; i++)
+            {
+                Console.Write("-");
+            }
+            Console.Write("+");
+            Console.Write("\n");
+
+
+        }
+        
+    
+        public static void WriteOptions() {
+            Console.SetCursorPosition(3,2);
+            Console.Write("Editor HTML");
+            Console.SetCursorPosition(3, 2);
+
         }
     }
+    
 }
