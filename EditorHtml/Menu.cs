@@ -21,7 +21,7 @@ namespace EditorHtml
         }
 
         public static void DrawScreen(int colum , int lines) {
-
+            //contrução das colunas superior
             Console.Write("+");
             for (int i = 1; i <= colum; i++)
             {
@@ -29,6 +29,7 @@ namespace EditorHtml
             }
             Console.Write("+");
             Console.Write("\n");
+            //Construir linhas e espaços entre elas baseado no número de colunas .
             for (int i = 1; i <= lines; i++)
             {
                 Console.Write("|");
@@ -40,6 +41,7 @@ namespace EditorHtml
                 Console.Write("\n");
             }
             Console.Write("+");
+            //contrução das colunas inferior.
             for (int i = 1; i <= colum; i++)
             {
                 Console.Write("-");
@@ -47,9 +49,9 @@ namespace EditorHtml
             Console.Write("+");
             Console.Write("\n");
         }
-        
-    
+            
         public static void WriteOptions() {
+            //Construção do menu exibição inteiro com writeline
             Console.SetCursorPosition(3,2);
             Console.WriteLine("Editor HTML");
             Console.SetCursorPosition(3, 3);
@@ -69,6 +71,7 @@ namespace EditorHtml
         }
     
         public static void HandleMenuOption(short Option){
+            //aqui eu crio uma opção para selecionar os itens do menu com SWITCH 
             switch (Option)
             {
                 case 1: 
