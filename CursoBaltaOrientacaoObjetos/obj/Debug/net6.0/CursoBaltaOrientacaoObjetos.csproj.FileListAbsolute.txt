@@ -1,0 +1,15 @@
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\bin\Debug\net6.0\CursoBaltaOrientacaoObjetos.exe
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\bin\Debug\net6.0\CursoBaltaOrientacaoObjetos.deps.json
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\bin\Debug\net6.0\CursoBaltaOrientacaoObjetos.runtimeconfig.json
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\bin\Debug\net6.0\CursoBaltaOrientacaoObjetos.dll
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\bin\Debug\net6.0\CursoBaltaOrientacaoObjetos.pdb
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\obj\Debug\net6.0\CursoBaltaOrientacaoObjetos.csproj.AssemblyReference.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\obj\Debug\net6.0\CursoBaltaOrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\obj\Debug\net6.0\CursoBaltaOrientacaoObjetos.AssemblyInfoInputs.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\obj\Debug\net6.0\CursoBaltaOrientacaoObjetos.AssemblyInfo.cs
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\obj\Debug\net6.0\CursoBaltaOrientacaoObjetos.csproj.CoreCompileInputs.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\obj\Debug\net6.0\CursoBaltaOrientacaoObjetos.dll
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\obj\Debug\net6.0\refint\CursoBaltaOrientacaoObjetos.dll
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\obj\Debug\net6.0\CursoBaltaOrientacaoObjetos.pdb
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\obj\Debug\net6.0\CursoBaltaOrientacaoObjetos.genruntimeconfig.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\obj\Debug\net6.0\ref\CursoBaltaOrientacaoObjetos.dll

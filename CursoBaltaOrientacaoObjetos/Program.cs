@@ -1,25 +1,12 @@
-﻿namespace CursoBaltaOrientacaoObjetos;
+﻿using CursoBaltaOrientacaoObjetos.ContentContext;
+
+namespace CursoBaltaOrientacaoObjetos;
 class Program
 {
     static void Main(string[] args)
     {
-
-    }
-
-    class Pagamento
-    {
-        //Propriedades
-        DateTime Vencimento;
-
-        //Métodos
-        void Pagar(){
-
-        }
-    }
-
-    class PagamentoBoleto : Pagamento
-    {
-        
+        Console.Clear();
+        var course = new Course();
     }
 
 }
