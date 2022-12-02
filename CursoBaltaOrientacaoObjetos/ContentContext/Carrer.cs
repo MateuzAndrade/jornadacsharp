@@ -7,8 +7,13 @@ namespace CursoBaltaOrientacaoObjetos.ContentContext
 {
     public class Carrer : Content
     {
-        public int Courses { get; set; }
+        public Carrer()
+        {
+            Items = new List<CareerItem>();
+        }
         
         
+        public IList<CareerItem> Items;
     }
+
 }
