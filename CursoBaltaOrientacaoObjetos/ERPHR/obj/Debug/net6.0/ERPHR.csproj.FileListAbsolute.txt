@@ -1,0 +1,15 @@
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\bin\Debug\net6.0\ERPHR.exe
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\bin\Debug\net6.0\ERPHR.deps.json
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\bin\Debug\net6.0\ERPHR.runtimeconfig.json
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\bin\Debug\net6.0\ERPHR.dll
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\bin\Debug\net6.0\ERPHR.pdb
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\obj\Debug\net6.0\ERPHR.csproj.AssemblyReference.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\obj\Debug\net6.0\ERPHR.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\obj\Debug\net6.0\ERPHR.AssemblyInfoInputs.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\obj\Debug\net6.0\ERPHR.AssemblyInfo.cs
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\obj\Debug\net6.0\ERPHR.csproj.CoreCompileInputs.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\obj\Debug\net6.0\ERPHR.dll
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\obj\Debug\net6.0\refint\ERPHR.dll
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\obj\Debug\net6.0\ERPHR.pdb
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\obj\Debug\net6.0\ERPHR.genruntimeconfig.cache
+D:\01 - Diretórios\03 - Programing\GitHub\jornadacsharp\CursoBaltaOrientacaoObjetos\ERPHR\obj\Debug\net6.0\ref\ERPHR.dll
